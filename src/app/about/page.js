@@ -1,5 +1,5 @@
 export const metadata = {
-    title: "MadCollection - About"
+    title: "About"
 }
 
 export default function AboutPage(){
